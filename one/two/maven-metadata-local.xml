@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>one</groupId>
+  <artifactId>two</artifactId>
+  <versioning>
+    <latest>SNAPSHOT-1.2.0</latest>
+    <release>SNAPSHOT-1.2.0</release>
+    <versions>
+      <version>SNAPSHOT-1.2.0</version>
+    </versions>
+    <lastUpdated>20210928083128</lastUpdated>
+  </versioning>
+</metadata>
